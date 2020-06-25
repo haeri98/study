@@ -8,6 +8,6 @@
 </head>
 <body>
 	<h1>m.jsp입니다.</h1>
-	<h2>원격 master</h2>
+	<h2>협의하에 수정합니다.</h2>
 </body>
 </html>
